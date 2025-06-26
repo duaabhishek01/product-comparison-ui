@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/product-comparison-ui/static/css/main.ff8e0d02.css",
+    "main.js": "/product-comparison-ui/static/js/main.72f3c39d.js",
+    "index.html": "/product-comparison-ui/index.html",
+    "main.ff8e0d02.css.map": "/product-comparison-ui/static/css/main.ff8e0d02.css.map",
+    "main.72f3c39d.js.map": "/product-comparison-ui/static/js/main.72f3c39d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8e0d02.css",
+    "static/js/main.72f3c39d.js"
+  ]
+}
