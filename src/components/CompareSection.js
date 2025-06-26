@@ -1,4 +1,4 @@
-﻿// CompareSection.js
+// CompareSection.js
 import React from 'react';
 
 const CompareSection = ({ selectedProducts, handleRemoveFromCompare }) => {

@@ -1,4 +1,4 @@
-﻿// ProductCard.js
+// ProductCard.js
 import React from 'react';
 
 const ProductCard = ({ product, handleAddToCompare, isSelected }) => {

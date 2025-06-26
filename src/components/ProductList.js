@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import ProductCard from './ProductCard';
 
 const ProductList = ({ products, selectedProducts, handleAddToCompare }) => {

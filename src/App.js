@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import ProductList from './components/ProductList';
 import CompareSection from './components/CompareSection';
 import products from './utils/data';
