@@ -20,7 +20,7 @@ export default function App() {
     }
   }, [compareList]);
 
-  // ✅ Add product ID to compare list
+  // Add product ID to compare list
   const handleAddToCompare = (product) => {
     if (compareList.includes(product.id)) return;
 
