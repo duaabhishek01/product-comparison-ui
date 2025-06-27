@@ -225,6 +225,20 @@ ul.prod-feature{
 .clear-btn:hover {
   color: #333;
 }
+@media screen and (max-width:512px){
+	.search-bar{
+		width: auto;
+	}
+	.reset-btn{
+		margin: 10px 20px 10px 0;
+	}
+	.compare-image{
+		margin-top: 30px;
+	}
+	.product-cell{
+		padding: 12px;
+	}
+}
 
 
 

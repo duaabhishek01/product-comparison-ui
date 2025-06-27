@@ -1,42 +1,50 @@
-﻿# Product Comparison UI
+# Product Comparison UI (React)
 
-A clean and responsive React-based product comparison interface for mobile phones. Users can browse, search, and compare up to 3 mobile phones side by side based on features like RAM, camera, screen, brand, price, and customer rating.
+A responsive and user-friendly mobile product comparison application built using **React**. Users can browse, search, and compare up to 3 smartphones side-by-side by key specifications.
+
+**Live Demo**: [https://duaabhishek01.github.io/product-comparison-ui/](https://duaabhishek01.github.io/product-comparison-ui/)
+
+---
+
+## Repository Access
+
+You can access the source code directly on GitHub:
+
+**GitHub Repo**: [https://github.com/duaabhishek01/product-comparison-ui](https://github.com/duaabhishek01/product-comparison-ui)
 
 ---
 
 ## Features
 
-- **Search & Filter**: Filter phones by brand or name in real-time.
-- **Compare up to 3 products** at once.
-- **Highlight differences** across selected mobiles.
-- **Star-based ratings** with half-star support.
-- **Scroll to comparison** section when products are added.
-- **Reset Comparison** button.
-- Visually engaging layout with subtle animations.
+- View a scrollable list of mobile products
+- Real-time search filter for product name and brand
+- Add products to a comparison list (max 3)
+- Auto-scroll to comparison section when 2+ products are selected
+- Reset comparison list
+- Star ratings for each product
+- Feature-by-feature comparison
+- Highlights differences across compared features
 
 ---
-
 ## Tech Stack
 
-- React (Functional components + Hooks)
-- CSS (custom styles, transitions, flexbox layout)
-- HTML5
-- Icons using Unicode (for rating)
-- Assets (local images for phone mockups)
+- **React**
+- **JavaScript (ES6+)**
+- **CSS3**
+- **HTML5**
 
 ---
 
-##  Setup Instructions
+## Installation & Usage
 
-1. **Clone the repository**
+### 1. Clone the repository
 
-   ```bash
-   git clone https://github.com/your-username/product-comparison-ui.git
-   cd product-comparison-ui
+```bash
+git clone https://github.com/duaabhishek01/product-comparison-ui.git
+cd product-comparison-ui
 
+## 2. Install Dependencies
+	npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 3. Run the project locally
+	npm start
